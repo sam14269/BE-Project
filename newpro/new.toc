@@ -1,0 +1,76 @@
+\contentsline {chapter}{\numberline {1}Synopsis}{3}
+\contentsline {section}{\numberline {1.1}Project Title}{4}
+\contentsline {section}{\numberline {1.2}Project Option}{4}
+\contentsline {section}{\numberline {1.3}Internal Guide}{4}
+\contentsline {section}{\numberline {1.4}Technical Keywords}{4}
+\contentsline {section}{\numberline {1.5}Problem Statement}{4}
+\contentsline {section}{\numberline {1.6}Abstract}{5}
+\contentsline {section}{\numberline {1.7}Goal And Objective}{5}
+\contentsline {section}{\numberline {1.8}Names of conferences / journals where papers can be published}{5}
+\contentsline {chapter}{\numberline {2}Technical Keywords}{6}
+\contentsline {section}{\numberline {2.1}Technical Keywords}{7}
+\contentsline {chapter}{\numberline {3}Introduction}{8}
+\contentsline {section}{\numberline {3.1}Project Idea}{9}
+\contentsline {section}{\numberline {3.2}Motivation Of The Project}{9}
+\contentsline {section}{\numberline {3.3}Literature Survey}{10}
+\contentsline {chapter}{\numberline {4}Problem Definition And Scope}{12}
+\contentsline {section}{\numberline {4.1}Problem Statement}{13}
+\contentsline {section}{\numberline {4.2}Goals And Objectives}{13}
+\contentsline {section}{\numberline {4.3}Software Context}{13}
+\contentsline {section}{\numberline {4.4}Major Constraints}{13}
+\contentsline {section}{\numberline {4.5}Methodologies Of Problem Solving And Efficiency Issues}{14}
+\contentsline {section}{\numberline {4.6}Outcome}{15}
+\contentsline {section}{\numberline {4.7}Applications}{15}
+\contentsline {section}{\numberline {4.8}Software Resources Required}{16}
+\contentsline {chapter}{\numberline {5}Project Plan}{17}
+\contentsline {section}{\numberline {5.1}Project Estimates}{18}
+\contentsline {section}{\numberline {5.2}Project Schedule}{19}
+\contentsline {subsection}{\numberline {5.2.1}Project Task Set}{19}
+\contentsline {subsection}{\numberline {5.2.2}Task Network}{20}
+\contentsline {section}{\numberline {5.3}Team Organisation}{20}
+\contentsline {subsection}{\numberline {5.3.1}Team Structure}{21}
+\contentsline {chapter}{\numberline {6}Project Implementation}{22}
+\contentsline {section}{\numberline {6.1}Introduction}{22}
+\contentsline {section}{\numberline {6.2}Types of host-based intrusion detection system (HIDS) }{22}
+\contentsline {subsection}{\numberline {6.2.1}Anomaly Based Detection}{22}
+\contentsline {subsubsection}{Advantages}{23}
+\contentsline {subsubsection}{Disadvantages}{23}
+\contentsline {subsection}{\numberline {6.2.2}Signature Based Detection}{23}
+\contentsline {section}{\numberline {6.3}Log Files}{24}
+\contentsline {subsection}{\numberline {6.3.1}Types of Log files}{24}
+\contentsline {subsubsection}{Server side log files}{24}
+\contentsline {subsubsection}{Client side log files}{24}
+\contentsline {subsubsection}{Proxy side log files}{24}
+\contentsline {subsubsection}{Firewall side log files}{24}
+\contentsline {subsubsection}{Network side log files}{24}
+\contentsline {subsubsection}{System side log files}{24}
+\contentsline {subsection}{\numberline {6.3.2}Extracting User Commands from Log Files }{25}
+\contentsline {subsection}{\numberline {6.3.3}XML converter}{25}
+\contentsline {subsubsection}{Feature Extractor}{25}
+\contentsline {subsubsection}{Knowledge base of normal behavior}{26}
+\contentsline {subsubsection}{Comparator}{26}
+\contentsline {section}{\numberline {6.4}String Matching Algorithms}{26}
+\contentsline {subsection}{\numberline {6.4.1}Introduction}{26}
+\contentsline {subsection}{\numberline {6.4.2}Types of String Matching Algorithm}{26}
+\contentsline {subsubsection}{Single-Keyword Pattern Matching}{26}
+\contentsline {subsubsection}{Multiple-Keyword Pattern Matching}{27}
+\contentsline {subsection}{\numberline {6.4.3}Myer Algorithm}{27}
+\contentsline {subsection}{\numberline {6.4.4}Parallel programming}{28}
+\contentsline {subsection}{\numberline {6.4.5}MPI}{28}
+\contentsline {subsection}{\numberline {6.4.6}Open multi-processing (OpenMP)}{28}
+\contentsline {subsection}{\numberline {6.4.7}MapReduce}{28}
+\contentsline {subsubsection}{MapReduce basic programming model}{29}
+\contentsline {section}{\numberline {6.5}Parallel Implementation of Myer Algorithm}{29}
+\contentsline {subsection}{\numberline {6.5.1}MAPCG implementation}{29}
+\contentsline {chapter}{\numberline {7}SOFTWARE REQUIREMENT SPECIFICATION(SRS)}{30}
+\contentsline {section}{\numberline {7.1}Introduction}{31}
+\contentsline {subsection}{\numberline {7.1.1}Purpose and Scope of Document}{31}
+\contentsline {subsection}{\numberline {7.1.2}Overview of responsibilities of Developer}{31}
+\contentsline {section}{\numberline {7.2}Usage Scenario}{31}
+\contentsline {subsection}{\numberline {7.2.1}User Profiles}{31}
+\contentsline {subsection}{\numberline {7.2.2}Use-cases}{31}
+\contentsline {subsection}{\numberline {7.2.3}Use Case View}{31}
+\contentsline {section}{\numberline {7.3}Functional Model and Description}{33}
+\contentsline {subsection}{\numberline {7.3.1}Data Flow Diagram}{33}
+\contentsline {subsection}{\numberline {7.3.2}Activity Diagram}{33}
+\contentsline {chapter}{\numberline {8}References}{36}
