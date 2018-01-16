@@ -1,0 +1,4 @@
+https://technet.microsoft.com/en-us/library/ee176840.aspx ------------for getting digital signatures
+https://www.symantec.com/security_response/attacksignatures/----------Attacks and Attacks Signatures
+https://www.symantec.com/connect/articles/network-intrusion-detection-signatures-part-one
+http://ieeexplore.ieee.org/document/6759203/
