@@ -8,3 +8,4 @@ https://www.loggly.com/blog/how-to-detect-and-analyze-ddos-attacks-using-log-ana
 http://searchsecurity.techtarget.com/feature/Intrusion-Prevention-Fundamentals-Signatures-and-Actions
 https://support.f5.com/kb/en-us/products/big-ip_asm/manuals/product/asm-config-11-2-0/asm_attack_sigs.html
 https://www.guru99.com/ultimate-guide-to-dos-attacks.html
+https://security.stackexchange.com/questions/54758/attack-signatures-books
