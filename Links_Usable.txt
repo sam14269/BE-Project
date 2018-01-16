@@ -2,3 +2,9 @@ https://technet.microsoft.com/en-us/library/ee176840.aspx ------------for gettin
 https://www.symantec.com/security_response/attacksignatures/----------Attacks and Attacks Signatures
 https://www.symantec.com/connect/articles/network-intrusion-detection-signatures-part-one
 http://ieeexplore.ieee.org/document/6759203/
+https://kb.juniper.net/InfoCenter/index?page=content&id=KB29429
+http://services.netscreen.com/documentation/signatures/index.html
+https://www.loggly.com/blog/how-to-detect-and-analyze-ddos-attacks-using-log-analysis/
+http://searchsecurity.techtarget.com/feature/Intrusion-Prevention-Fundamentals-Signatures-and-Actions
+https://support.f5.com/kb/en-us/products/big-ip_asm/manuals/product/asm-config-11-2-0/asm_attack_sigs.html
+https://www.guru99.com/ultimate-guide-to-dos-attacks.html
